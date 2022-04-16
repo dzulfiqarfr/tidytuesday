@@ -1,2 +1,3 @@
-# tidytuesday-participation
-Code and data for my participation in the #tidytuesday project
+# Tidy Tuesday
+
+Code and data behind my participation in [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday), a weekly data analysis project.
