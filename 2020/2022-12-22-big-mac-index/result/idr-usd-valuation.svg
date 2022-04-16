@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="svglite"
+   width="546.65198pt"
+   height="309.9921pt"
+   viewBox="0 0 546.65198 309.9921"
+   version="1.1"
+   id="svg1230"
+   sodipodi:docname="idr-usd-valuation.svg"
+   inkscape:export-filename="C:\Users\dzulf\Documents\Projects\tidytuesday-participation\2020\2022-12-22-big-mac-index\result\idr-usd-valuation.png"
+   inkscape:export-xdpi="168.5899"
+   inkscape:export-ydpi="168.5899"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1232"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="1.2088948"
+     inkscape:cx="351.97438"
+     inkscape:cy="245.67895"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1230" />
+  <defs
+     id="defs1031">
+    <style
+       type="text/css"
+       id="style1029"><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+  </defs>
+  <rect
+     width="100%"
+     height="100%"
+     style="fill:#ffffff;stroke:none"
+     id="rect1033"
+     x="-14.641602"
+     y="-6.9176183" />
+  <defs
+     id="defs1038">
+    <clipPath
+       id="cpMC4wMHw1NzYuMDB8MC4wMHwzMjQuMDA=">
+      <rect
+         x="0"
+         y="0"
+         width="576"
+         height="324"
+         id="rect1035" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8MC4wMHwzMjQuMDA=)"
+     id="g1042"
+     transform="translate(-14.641601,-6.9176181)">
+    <rect
+       x="0"
+       y="0"
+       width="576"
+       height="324"
+       style="fill:#ffffff;stroke:none;stroke-width:1.07"
+       id="rect1040" />
+  </g>
+  <defs
+     id="defs1047">
+    <clipPath
+       id="cpNy4wOXwyOTUuMzV8NDYuNTh8Mjg3LjUw">
+      <rect
+         x="7.0900002"
+         y="46.580002"
+         width="288.26001"
+         height="240.92"
+         id="rect1044" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpNy4wOXwyOTUuMzV8NDYuNTh8Mjg3LjUw)"
+     id="g1051"
+     transform="translate(-14.641601,-6.9176181)">
+    <rect
+       x="7.0900002"
+       y="46.580002"
+       width="288.26001"
+       height="240.92"
+       style="fill:#ffffff;stroke:none;stroke-width:1.07"
+       id="rect1049" />
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8MC4wMHwzMjQuMDA=)"
+     id="g1053"
+     transform="translate(-14.641601,-6.9176181)" />
+  <defs
+     id="defs1058">
+    <clipPath
+       id="cpMTQuMTd8MjUyLjczfDc1LjIwfDI2NS4yOA==">
+      <rect
+         x="14.17"
+         y="75.199997"
+         width="238.56"
+         height="190.08"
+         id="rect1055" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpMTQuMTd8MjUyLjczfDc1LjIwfDI2NS4yOA==)"
+     id="g1078"
+     transform="translate(-14.641601,-6.9176181)">
+    <rect
+       x="14.17"
+       y="75.199997"
+       width="238.56"
+       height="190.08"
+       style="fill:#ffffff;stroke:none;stroke-width:1.07"
+       id="rect1060" />
+    <polyline
+       points="14.17,265.28 252.73,265.28 "
+       style="stroke:#e0e0e0;stroke-width:1.16;stroke-linecap:butt"
+       id="polyline1062" />
+    <polyline
+       points="14.17,201.92 252.73,201.92 "
+       style="stroke:#e0e0e0;stroke-width:1.16;stroke-linecap:butt"
+       id="polyline1064" />
+    <polyline
+       points="14.17,138.56 252.73,138.56 "
+       style="stroke:#e0e0e0;stroke-width:1.16;stroke-linecap:butt"
+       id="polyline1066" />
+    <polyline
+       points="14.17,75.20 252.73,75.20 "
+       style="stroke:#e0e0e0;stroke-width:1.16;stroke-linecap:butt"
+       id="polyline1068" />
+    <polyline
+       points="25.02,164.60 35.72,127.73 46.42,145.79 57.12,154.53 68.74,149.71 80.35,144.33 86.62,145.41 90.14,147.12 97.33,150.09 101.75,151.04 112.49,149.31 124.07,136.03 129.46,147.18 134.77,150.44 145.47,157.28 150.87,149.21 156.21,145.12 161.60,141.51 166.91,139.01 172.30,111.44 177.61,119.49 183.01,107.14 188.31,96.18 193.71,88.54 199.05,99.12 204.44,96.38 209.75,95.86 215.14,96.00 220.45,83.31 225.85,86.73 231.39,86.23 236.93,92.06 241.89,82.36 "
+       style="stroke:#80cbc4;stroke-width:2.13;stroke-linecap:butt"
+       id="polyline1070" />
+    <polyline
+       points="25.02,192.08 35.72,191.94 46.42,183.86 57.12,190.00 68.74,194.93 80.35,204.82 86.62,206.55 90.14,205.60 97.33,202.71 101.75,206.20 112.49,198.91 124.07,191.10 129.46,191.30 134.77,187.96 145.47,195.04 150.87,197.25 156.21,194.42 161.60,184.22 166.91,187.58 172.30,188.72 177.61,191.45 183.01,191.37 188.31,184.59 193.71,186.89 199.05,187.34 204.44,187.65 209.75,188.47 215.14,179.48 220.45,192.84 225.85,190.34 231.39,194.64 236.93,191.53 241.89,189.83 "
+       style="stroke:#00796b;stroke-width:2.13;stroke-linecap:butt"
+       id="polyline1072" />
+    <text
+       x="54.490002"
+       y="123.49"
+       style="font-size:11px;font-family:Arial"
+       textLength="103.38"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1074">Actual exchange rate</text>
+    <text
+       x="101.75"
+       y="224.87"
+       style="font-size:11px;font-family:Arial"
+       textLength="60.540001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1076">Implied PPP</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8MC4wMHwzMjQuMDA=)"
+     id="g1118"
+     transform="translate(-14.641601,-6.9176181)">
+    <text
+       x="257.66"
+       y="269.22"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="6.1199999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1080">0</text>
+    <text
+       x="257.66"
+       y="205.86"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="24.48"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1082">5000</text>
+    <text
+       x="257.66"
+       y="142.5"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="30.6"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1084">10000</text>
+    <text
+       x="257.66"
+       y="79.139999"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="30.6"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1086">15000</text>
+    <polyline
+       points="14.17,265.28 252.73,265.28 "
+       style="stroke-width:1.16;stroke-linecap:butt"
+       id="polyline1088" />
+    <polyline
+       points="22.35,268.02 22.35,265.28 "
+       style="stroke-width:1.16;stroke-linecap:butt"
+       id="polyline1090" />
+    <polyline
+       points="75.92,268.02 75.92,265.28 "
+       style="stroke-width:1.16;stroke-linecap:butt"
+       id="polyline1092" />
+    <polyline
+       points="129.46,268.02 129.46,265.28 "
+       style="stroke-width:1.16;stroke-linecap:butt"
+       id="polyline1094" />
+    <polyline
+       points="183.01,268.02 183.01,265.28 "
+       style="stroke-width:1.16;stroke-linecap:butt"
+       id="polyline1096" />
+    <polyline
+       points="236.55,268.02 236.55,265.28 "
+       style="stroke-width:1.16;stroke-linecap:butt"
+       id="polyline1098" />
+    <text
+       x="22.35"
+       y="278.09"
+       text-anchor="middle"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="24.48"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1100"
+       transform="translate(3.7277248)">2000</text>
+    <text
+       x="75.919998"
+       y="278.09"
+       text-anchor="middle"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="24.48"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1102">2005</text>
+    <text
+       x="129.46001"
+       y="278.09"
+       text-anchor="middle"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="24.48"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1104">2010</text>
+    <text
+       x="183.00999"
+       y="278.09"
+       text-anchor="middle"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="24.48"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1106">2015</text>
+    <text
+       x="236.55"
+       y="278.09"
+       text-anchor="middle"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="24.48"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1108">2020</text>
+    <text
+       x="14.17"
+       y="62.610001"
+       style="font-size:12.5px;font-family:Arial;fill:#757575"
+       textLength="39.599998"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1110">Rupiah</text>
+    <text
+       x="57.240002"
+       y="62.610001"
+       style="font-size:12.5px;font-family:Arial;fill:#757575"
+       textLength="18.059999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1112">per</text>
+    <text
+       x="78.769997"
+       y="62.610001"
+       style="font-size:12.5px;font-family:Arial;fill:#757575"
+       textLength="17.370001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1114">US</text>
+    <text
+       x="99.610001"
+       y="62.610001"
+       style="font-size:12.5px;font-family:Arial;fill:#757575"
+       textLength="30.559999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1116">dollar</text>
+  </g>
+  <defs
+     id="defs1123">
+    <clipPath
+       id="cpMjk1LjM1fDU2OC45MXw0Ni41OHwyODcuNTA=">
+      <rect
+         x="295.35001"
+         y="46.580002"
+         width="273.57001"
+         height="240.92"
+         id="rect1120" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpMjk1LjM1fDU2OC45MXw0Ni41OHwyODcuNTA=)"
+     id="g1127"
+     transform="translate(-14.641601,-6.9176181)">
+    <rect
+       x="295.35001"
+       y="46.580002"
+       width="273.57001"
+       height="240.92"
+       style="fill:#ffffff;stroke:none;stroke-width:1.07"
+       id="rect1125" />
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8MC4wMHwzMjQuMDA=)"
+     id="g1129"
+     transform="translate(-14.641601,-6.9176181)" />
+  <defs
+     id="defs1134">
+    <clipPath
+       id="cpMzAyLjQzfDU0MC45OXw3NS4yMHwyNjUuMjg=">
+      <rect
+         x="302.42999"
+         y="75.199997"
+         width="238.56"
+         height="190.08"
+         id="rect1131" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpMzAyLjQzfDU0MC45OXw3NS4yMHwyNjUuMjg=)"
+     id="g1148"
+     transform="translate(-14.641601,-6.9176181)">
+    <rect
+       x="302.42999"
+       y="75.199997"
+       width="238.56"
+       height="190.08"
+       style="fill:#ffffff;stroke:none;stroke-width:1.07"
+       id="rect1136" />
+    <polyline
+       points="302.43,256.64 540.99,256.64 "
+       style="stroke:#e0e0e0;stroke-width:1.16;stroke-linecap:butt"
+       id="polyline1138" />
+    <polyline
+       points="302.43,199.04 540.99,199.04 "
+       style="stroke:#e0e0e0;stroke-width:1.16;stroke-linecap:butt"
+       id="polyline1140" />
+    <polyline
+       points="302.43,141.44 540.99,141.44 "
+       style="stroke:#e0e0e0;stroke-width:1.16;stroke-linecap:butt"
+       id="polyline1142" />
+    <polyline
+       points="302.43,83.84 540.99,83.84 "
+       style="stroke:#e0e0e0;stroke-width:1.16;stroke-linecap:butt"
+       id="polyline1144" />
+    <polyline
+       points="313.28,104.83 323.98,160.69 334.68,118.00 345.39,118.48 357.00,138.93 368.61,170.28 374.88,173.14 378.40,168.79 385.59,157.80 390.01,165.28 400.75,149.41 412.33,148.94 417.72,133.84 423.03,120.34 433.73,126.92 439.13,145.44 444.47,144.40 449.86,125.62 455.17,137.04 460.56,170.91 465.87,168.39 471.27,179.64 476.57,176.82 481.97,186.50 487.31,179.15 492.70,181.87 498.01,183.67 503.40,168.27 508.71,199.59 514.11,193.36 519.65,200.62 525.19,191.62 530.15,195.44 "
+       style="stroke:#00796b;stroke-width:2.13;stroke-linecap:butt"
+       id="polyline1146" />
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8MC4wMHwzMjQuMDA=)"
+     id="g1228"
+     transform="translate(-14.641601,-6.9176181)">
+    <text
+       x="545.91998"
+       y="260.57999"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="15.9"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1150">-80</text>
+    <text
+       x="545.91998"
+       y="202.98"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="15.9"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1152">-60</text>
+    <text
+       x="545.91998"
+       y="145.38"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="15.9"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1154">-40</text>
+    <text
+       x="545.91998"
+       y="87.779999"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="15.9"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1156">-20</text>
+    <polyline
+       points="310.61,268.02 310.61,265.28 "
+       style="stroke:#e0e0e0;stroke-width:1.16;stroke-linecap:butt"
+       id="polyline1158" />
+    <polyline
+       points="364.18,268.02 364.18,265.28 "
+       style="stroke:#e0e0e0;stroke-width:1.16;stroke-linecap:butt"
+       id="polyline1160" />
+    <polyline
+       points="417.72,268.02 417.72,265.28 "
+       style="stroke:#e0e0e0;stroke-width:1.16;stroke-linecap:butt"
+       id="polyline1162" />
+    <polyline
+       points="471.27,268.02 471.27,265.28 "
+       style="stroke:#e0e0e0;stroke-width:1.16;stroke-linecap:butt"
+       id="polyline1164" />
+    <polyline
+       points="524.81,268.02 524.81,265.28 "
+       style="stroke:#e0e0e0;stroke-width:1.16;stroke-linecap:butt"
+       id="polyline1166" />
+    <text
+       x="310.60999"
+       y="278.09"
+       text-anchor="middle"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="24.48"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1168">2000</text>
+    <text
+       x="364.17999"
+       y="278.09"
+       text-anchor="middle"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="24.48"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1170">2005</text>
+    <text
+       x="417.72"
+       y="278.09"
+       text-anchor="middle"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="24.48"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1172">2010</text>
+    <text
+       x="471.26999"
+       y="278.09"
+       text-anchor="middle"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="24.48"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1174">2015</text>
+    <text
+       x="524.81"
+       y="278.09"
+       text-anchor="middle"
+       style="font-size:11px;font-family:Arial;fill:#757575"
+       textLength="24.48"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1176">2020</text>
+    <text
+       x="302.42999"
+       y="62.610001"
+       style="font-size:12.5px;font-family:Arial;fill:#757575"
+       textLength="39.599998"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1178">Rupiah</text>
+    <text
+       x="345.5"
+       y="62.610001"
+       style="font-size:12.5px;font-family:Arial;fill:#757575"
+       textLength="50.02"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1180">valuation</text>
+    <text
+       x="398.98999"
+       y="62.610001"
+       style="font-size:12.5px;font-family:Arial;fill:#757575"
+       textLength="40.290001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1182">against</text>
+    <text
+       x="442.76001"
+       y="62.610001"
+       style="font-size:12.5px;font-family:Arial;fill:#757575"
+       textLength="17.370001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1184">US</text>
+    <text
+       x="463.59"
+       y="62.610001"
+       style="font-size:12.5px;font-family:Arial;fill:#757575"
+       textLength="30.559999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1186">dollar</text>
+    <text
+       x="497.63"
+       y="62.610001"
+       style="font-size:12.5px;font-family:Arial;fill:#757575"
+       textLength="13.89"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1188">(in</text>
+    <text
+       x="514.98999"
+       y="62.610001"
+       style="font-size:12.5px;font-family:Arial;fill:#757575"
+       textLength="45.84"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1190">percent)</text>
+    <text
+       x="14.17"
+       y="304.98001"
+       style="font-size:10.5px;font-family:Arial;fill:#9e9e9e"
+       textLength="36.18"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1192">Source:</text>
+    <text
+       x="53.27"
+       y="304.98001"
+       style="font-size:10.5px;font-family:Arial;fill:#9e9e9e"
+       textLength="18.09"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1194">The</text>
+    <text
+       x="74.279999"
+       y="304.98001"
+       style="font-size:10.5px;font-family:Arial;fill:#9e9e9e"
+       textLength="51.93"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1196">Economist;</text>
+    <text
+       x="129.12"
+       y="304.98001"
+       style="font-size:10.5px;font-family:Arial;fill:#9e9e9e"
+       textLength="39.68"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1198">Reuters;</text>
+    <text
+       x="171.72"
+       y="304.98001"
+       style="font-size:10.5px;font-family:Arial;fill:#9e9e9e"
+       textLength="37.02"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1200">author's</text>
+    <text
+       x="211.64999"
+       y="304.98001"
+       style="font-size:10.5px;font-family:Arial;fill:#9e9e9e"
+       textLength="37.93"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1202">analysis</text>
+    <text
+       x="14.17"
+       y="314.70001"
+       style="font-size:10.5px;font-family:Arial;fill:#9e9e9e"
+       textLength="28.59"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1204">Chart:</text>
+    <text
+       x="45.68"
+       y="314.70001"
+       style="font-size:10.5px;font-family:Arial;fill:#9e9e9e"
+       textLength="56.759998"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1206">@dzulfiqarfr</text>
+    <text
+       x="14.17"
+       y="33.98"
+       style="font-size:12.5px;font-family:Arial;fill:#757575"
+       textLength="18.059999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1208">Big</text>
+    <text
+       x="35.709999"
+       y="33.98"
+       style="font-size:12.5px;font-family:Arial;fill:#757575"
+       textLength="23.610001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1210">Mac</text>
+    <text
+       x="62.790001"
+       y="33.98"
+       style="font-size:12.5px;font-family:Arial;fill:#757575"
+       textLength="30.559999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1212">Index</text>
+    <text
+       x="14.17"
+       y="17.110001"
+       style="font-weight:bold;font-size:14px;font-family:Arial"
+       textLength="47.419998"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1214">Rupiah</text>
+    <text
+       x="65.480003"
+       y="17.110001"
+       style="font-weight:bold;font-size:14px;font-family:Arial"
+       textLength="11.67"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1216">is</text>
+    <text
+       x="81.040001"
+       y="17.110001"
+       style="font-weight:bold;font-size:14px;font-family:Arial"
+       textLength="83.199997"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1218">undervalued</text>
+    <text
+       x="168.13"
+       y="17.110001"
+       style="font-weight:bold;font-size:14px;font-family:Arial"
+       textLength="48.990002"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1220">against</text>
+    <text
+       x="221.00999"
+       y="17.110001"
+       style="font-weight:bold;font-size:14px;font-family:Arial"
+       textLength="20.99"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1222">the</text>
+    <text
+       x="245.88"
+       y="17.110001"
+       style="font-weight:bold;font-size:14px;font-family:Arial"
+       textLength="19.450001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1224">US</text>
+    <text
+       x="269.22"
+       y="17.110001"
+       style="font-weight:bold;font-size:14px;font-family:Arial"
+       textLength="38.099998"
+       lengthAdjust="spacingAndGlyphs"
+       id="text1226">dollar</text>
+  </g>
+</svg>
